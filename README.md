@@ -9,7 +9,3 @@ Watch it live [here](http://codepen.io/telega/full/JKLdNV/).
 ## Thoughts
 
 This is made with [PaperJS](http://paperjs.org), which is convenient but it seems a bit slow when there are a lot of petals. 
-
-## ToDo
-
-+ load the rawgit code into Codepen(?)
